@@ -32,5 +32,7 @@ public class ifElse {
             System.out.println("wrong Input");
         }
 
+        
+
     }
 }

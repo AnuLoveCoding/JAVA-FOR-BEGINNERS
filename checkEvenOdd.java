@@ -8,11 +8,11 @@ public class checkEvenOdd {
 
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
+        // Scanner sc = new Scanner(System.in);
 
-        int a = sc.nextInt();
+        // int a = sc.nextInt();
 
-            // int a=3;
+            int a=3;
 
         if(a%2==0){
 

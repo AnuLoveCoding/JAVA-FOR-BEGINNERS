@@ -34,7 +34,7 @@ public class switchCase {
                         // case  "o":
                         // case "u"  :
                         System.out.println("Vowels");
-                        break
+                        break;
                         default:
                         System.out.println("Consonant");
                       }
